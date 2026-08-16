@@ -22,17 +22,11 @@
 
 ## 🚀 Установка
 
-### Через PyPI (рекомендуется)
+### Через git (рекомендуется)
 ```bash
-pip install komitbuild
+pip install git+https://github.com/KentikXlove/komitbuild
 ```
 
-### Из исходников
-```bash
-git clone https://github.com/yourusername/komitbuild.git
-cd komitbuild
-pip install -e .
-```
 
 ---
 
