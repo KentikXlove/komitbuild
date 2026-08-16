@@ -24,7 +24,7 @@
 
 ### Через git (рекомендуется)
 ```bash
-pip install git+https://github.com/KentikXlove/komitbuild
+pip install git+https://github.com/kentikxlove/komitbuild
 ```
 
 
